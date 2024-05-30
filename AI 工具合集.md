@@ -13,7 +13,7 @@
 |10|聊天内容生成|字节小悟空|[https://wukong.com/tool](https://wukong.com/tool)|综合型 AI: 字节跳动内容生成工具集......|
 |11|聊天内容生成|达观数据曹植|[https://www.datagrand.com](https://www.datagrand.com)|综合型 AI: 行业垂域大模型......|
 
-# 2. AI 办公-综合
+# 2. AI 办公 - 综合
 |序号|类型|AI 工具名称| 入口|功能|
 |-|-|-|-|-|
 |1| AI 办公-综合|360数字员工|[https://ai.360.com](https://ai.360.com)|团队协作共享，企业知识库、AI 文档分析、AI 营销文案、AI 文书写作等智能工具|
@@ -29,4 +29,22 @@
 |5| AI 办公 - Office|360 苏打办公|[https://bangong.360.cn](https://bangong.360.cn)|AI 办公工具集: 文档、视频、设计、开发.....|
 |6| AI 办公 - Office|酷表 ChatExcel|[https://chatexcel.com](https://chatexcel.com)|智能 excel 公式|
 |7| AI 办公 - Office|商汤办公小浣熊|[https://raccoon.sensetime.com](https://raccoon.sensetime.com)|智能图表|
+
+# 4. AI 办公 - 会议纪要
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1| AI 办公 - 会议纪要|讯飞听见|[https://www.iflyrec.com](https://www.iflyrec.com)|音视频转文字，实时录音转文字，同传，翻译 ......|
+|2| AI 办公 - 会议纪要|阿里通义听悟|[https://tingwu.aliyun.com](https://tingwu.aliyun.com)|音视频转文字，实时录音转文字，互联网内容提炼 ......|
+|3| AI 办公 - 会议纪要|飞书妙记|[https://www.feishu.cn/product/minutes?from=thosefree.com](https://www.feishu.cn/product/minutes?from=thosefree.com)|飞书文档中的会议纪要工具，实时转录，音视频转文字 ......|
+|4| AI 办公 - 会议纪要|腾讯会议 AI|[https://meeting.tencent.com/ai/index.html](https://meeting.tencent.com/ai/index.html)|腾讯会议录制后会议纪要整理 ......|
+
+# 5. AI 办公 - 脑图
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1| AI 办公 - 脑图|ProcessOn|[https://www.processon.com/](https://www.processon.com/)|AI 思维导图 ......|
+|2| AI 办公 - 脑图|亿图脑图|[https://www.edrawsoft.cn/mindmaster/]https://www.edrawsoft.cn/mindmaster/)|AI 思维导图 ......|
+|3| AI 办公 - 脑图|GitMind 思乎|[https://gitmind.cn/](https://gitmind.cn/)|AI 思维导图 ......|
+|4| AI 办公 - 脑图|boardmix 博思白板|[https://boardmix.cn/ai-whiteboard/](https://boardmix.cn/ai-whiteboard/)|实时协作的智慧白板上，一键生成 PPT、用 AI 协助创作思维导图、AI 绘画、AI 写作，共享资源素材 ......|
+|5| AI 办公 - 脑图|妙办画板|[https://imiaoban.com/](https://imiaoban.com/)|生成流程图、 思维导图 ......|
+
 
