@@ -90,7 +90,6 @@
 # 10. 图像生成/编辑
 |序号|类型|AI 工具名称| 入口|功能|
 |-|-|-|-|-|
-|1| 图像生成/编辑||[]()| ......|
 |1| 图像生成/编辑|通义万相|[https://tongyi.aliyun.com/](https://tongyi.aliyun.com/)| AI 生成图片，人工智能艺术创作大模型......|
 |2| 图像生成/编辑|文心一格|[https://yige.baidu.com/](https://yige.baidu.com/)| 文生图像......|
 |3| 图像生成/编辑|剪映 AI|[https://www.capcut.cn/](https://www.capcut.cn/)| 剪映一键生成 AI 绘画......|
@@ -114,20 +113,68 @@
 |序号|类型|AI 工具名称| 入口|功能|
 |-|-|-|-|-|
 |1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
-|1|  AI 设计||[]()| ......|
+|1|  AI 设计|阿里堆友|[https://d.design/](https://d.design/)| 面向设计师群体的 AI 设计社区......|
+|2|  AI 设计|稿定 AI|[https://www.gaoding.com/](https://www.gaoding.com/)| 图像设计......|
+|3|  AI 设计|墨刀 AI|[https://modao.cc/](https://modao.cc/)| 产品设计协作平台......|
+|4|  AI 设计|莫高设计 MasterGo AI|[https://mastergo.com/](https://mastergo.com/)| AI 时代的企业级产品设计平台，界面设计、交互设计......|
+|5|  AI 设计|创客贴 AI|[https://www.chuangkit.com/](https://www.chuangkit.com/)| 图形图像设计......|
+|6|  AI 设计|即时 AI|[https://js.design/ai](https://js.design/ai)| 文生 UI, 文生图，图生 UI......|
+|7|  AI 设计|PixsO AI|[https://pixso.cn/](https://pixso.cn/)| 新生代UI设计工具......|
+|8|  AI 设计|抖音即创|[https://aic.oceanengine.com/login](https://aic.oceanengine.com/login)| 抖音电商智能创作平台,提供AI视频创作、图文创作和直播创作......|
+|9|  AI 设计|腾讯 AIDesign|[https://ailogo.qq.com/](https://ailogo.qq.com/)| 腾讯的 logo 设计......|
+|10|  AI 设计|美间|[https://www.meijian.com/introduction](https://www.meijian.com/introduction)| AI 软装设计、海报和提案生成工具......|
+
+# 12. AI 音频
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1|  AI 音频|度加创作工具|[https://aigc.baidu.com/home](https://aigc.baidu.com/home)| 热搜一键成稿,文稿一键成片......|
+|2|  AI 音频|魔音工坊|[https://www.moyin.com/](https://www.moyin.com/)| AI 配音工具......|
+|3|  AI 音频|网易天音|[https://tianyin.music.163.com/#/](https://tianyin.music.163.com/#/)|智能编曲，海量风格 ......|
+|4|  AI 音频|TME Studio|[https://y.qq.com/tme_studio](https://y.qq.com/tme_studio)| 腾讯音乐智能音乐生成工具......|
+|5|  AI 音频|讯飞智作|[https://www.xfzhizuo.cn/](https://www.xfzhizuo.cn/)| 配音、声音定制、虚拟主播、音视频处理......|
+
+# 13. AI 视频
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1|  AI 视频|PixVerse|[https://pixverse.ai/](https://pixverse.ai/)|文生视频 ......|
+|2|  AI 视频|绘影字幕|[https://huiyingzimu.com/](https://huiyingzimu.com/)| AI 字幕,翻译、配音......|
+|3|  AI 视频|万彩微影|[https://www.animiz.cn/microvideo](https://www.animiz.cn/microvideo)| 真人手绘视频、翻转文字视频、文章转视频、相册视频工具......|
+|4|  AI 视频|芦笋 AI 提词器|[https://tcq.lusun.com/](https://tcq.lusun.com/)| 持 AI 写稿、隐形提词效果、支持智能跟读......|
+|5|  AI 视频|360快剪辑|[https://kuai.360.cn/home.html](https://kuai.360.cn/home.html)| 专业视频剪辑......|
+|6|  AI 视频|万彩 AI|[https://ai.kezhan365.com/](https://ai.kezhan365.com/)| 高效、好用的 AI 写作和短视频创作平台......|
+
+# 14. 数字人
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1|  数字人|腾讯智影|[https://zenvideo.qq.com/](https://zenvideo.qq.com/)|数字人、文本配音、文章转视频 ......|
+|2|  数字人|来画|[https://www.laihua.com/](https://www.laihua.com/)|动画、数字人智能制作 ......|
+|3|  数字人|一帧秒创|[https://aigc.yizhentv.com/](https://aigc.yizhentv.com/)| AI 视频,数字人、AI作画......|
+|4|  数字人|万兴播爆|[https://virbo.wondershare.cn/](https://virbo.wondershare.cn/)| 数字人,真人营销视频......|
+
+# 15. AI 写代码
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1|  AI- 写代码|昇思 MindSpore|[https://www.mindspore.cn/](https://www.mindspore.cn/)| 面向开发者的一站式 AI 开发平台,提供海量数据预处理及半自动化标注、大规模分布式 Training、自动化模型生成......|
+|2|  AI- 写代码|百度飞桨PaddlePaddle AI Code assistant|[https://www.paddlepaddle.org.cn/](https://www.paddlepaddle.org.cn/)| 在线编程,海量数据集 ......|
+|3|  AI- 写代码|ZelinAI|[https://www.zelinai.com/](https://www.zelinai.com/)| 零代码构建AI应用......|
+|4|  AI- 写代码|aiXcoder|[https://www.aixcoder.com/#/](https://www.aixcoder.com/#/)| 基于深度学习代码生成技术的智能编程机器人......|
+|5|  AI- 写代码|商汤代码小浣熊|[https://raccoon.sensetime.com/code](https://raccoon.sensetime.com/code)| 代码生成补全翻译重构......|
+|6|  AI- 写代码|CodeArts Snap|[https://www.huaweicloud.com/product/codeartside/snap.html](https://www.huaweicloud.com/product/codeartside/snap.html)| 覆盖代码生成、研发知识问答、单元测试用例生成、代码解释、代码注释、代码翻译、代码调试、代码检查等八大研发场景......|
+|7|  AI- 写代码|天工智码|[https://sky-code.singularity-ai.com/index.html#/](https://sky-code.singularity-ai.com/index.html#/)| 基于昆仑天工模型的AI代码工具......|
 
 
+# 16. 模型训练/部署
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1| 模型训练/部署||[]()| ......|
+|1| 模型训练/部署|火山方舟|[https://www.volcengine.com/product/ark](https://www.volcengine.com/product/ark)| 模型训练、推理、评测、精调等全方位功能与服务......|
+|1| 模型训练/部署|魔搭社区|[https://modelscope.cn/home](https://modelscope.cn/home)| 阿里达摩院,提供模型探索体验、推理、训练、部署和应用的一站式服务......|
+|1| 模型训练/部署|文心大模型|[https://wenxin.baidu.com/](https://wenxin.baidu.com/)| 产业级知识增强大模型......|
 
 
-
-
+# 17. AI 提示词
+|序号|类型|AI 工具名称| 入口|功能|
+|-|-|-|-|-|
+|1|AI 提示词 |提示工程指南|[https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)| 如何使用提示词来完成不同的任务......|
+|1|AI 提示词 |词魂|[https://icihun.com/](https://icihun.com/)| AIGC 精品提示词库 ......|
 
