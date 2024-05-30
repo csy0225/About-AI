@@ -112,7 +112,6 @@
 # 11. AI 设计
 |序号|类型|AI 工具名称| 入口|功能|
 |-|-|-|-|-|
-|1|  AI 设计||[]()| ......|
 |1|  AI 设计|阿里堆友|[https://d.design/](https://d.design/)| 面向设计师群体的 AI 设计社区......|
 |2|  AI 设计|稿定 AI|[https://www.gaoding.com/](https://www.gaoding.com/)| 图像设计......|
 |3|  AI 设计|墨刀 AI|[https://modao.cc/](https://modao.cc/)| 产品设计协作平台......|
@@ -166,7 +165,6 @@
 # 16. 模型训练/部署
 |序号|类型|AI 工具名称| 入口|功能|
 |-|-|-|-|-|
-|1| 模型训练/部署||[]()| ......|
 |1| 模型训练/部署|火山方舟|[https://www.volcengine.com/product/ark](https://www.volcengine.com/product/ark)| 模型训练、推理、评测、精调等全方位功能与服务......|
 |1| 模型训练/部署|魔搭社区|[https://modelscope.cn/home](https://modelscope.cn/home)| 阿里达摩院,提供模型探索体验、推理、训练、部署和应用的一站式服务......|
 |1| 模型训练/部署|文心大模型|[https://wenxin.baidu.com/](https://wenxin.baidu.com/)| 产业级知识增强大模型......|
